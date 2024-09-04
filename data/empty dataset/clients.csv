@@ -1,0 +1,3 @@
+ID, Name, Surname, Phone, Adress, Username, Password, Gender, Loyalty Card, Deleted
+a29850db-895a-4ec9-87a4-23983bc47999, Mika, Mikić, 0111456789, Marka Kraljevića 10, MM, 12, M, false, false
+c7b2b90f-6cad-4626-8234-55966ca0e42d, Milica, Milić, 0211456789, Marka Kraljevića 11, MilicaM, 123452, F, false, false

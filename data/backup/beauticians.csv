@@ -1,0 +1,4 @@
+ID, Name, Surname, Phone, Adress, Username, Password, Gender, Qualification level, Work experience, Salary, Deleted, Date of Deletion, Specializations
+9bf0e8e6-aa00-44f9-b48a-8c378d1c20f8, Jovana, Jovanović, 0123656789, Marka Kraljevića 9, JadrankaJ, 123450, F, 8, 4.0, 86400, false, Not deleted, Manikir
+e69ed02d-ef35-4511-8dfd-f22dc8790005, Žika, Žikić, 0123556789, Marka Kraljevića 8, ZikaZ, 123459, M, 5, 10.0, 56000, false, Not deleted, Masaža|Manikir|Pedikir
+ace88e3f-5b22-41e8-aa84-5e687df89c67, Sima, Simić, 0123256789, Marka Kraljevića 7, SimaS, 123458, M, 7, 1.0, 48000, false, Not deleted, Masaža|Manikir

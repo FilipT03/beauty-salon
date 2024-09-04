@@ -1,0 +1,7 @@
+ID, Name, Type, Lenght, Price, Deleted
+4192c97d-81f9-435d-ae74-5bb4bdc1c7fb, Sportska masaža, Masaža, 01:15, 2500.0, false
+cf50c420-b76f-4890-ba9b-a09f8e17039d, Gel lak, Manikir, 01:20, 1600.0, false
+68020123-f2d5-44cd-b5d7-935fef1c9038, Spa pedikir, Masaža, 00:45, 1600.0, false
+618c1791-6c48-4037-a180-b64996fcfb1e, Francuski manikir, Manikir, 00:50, 1500.0, false
+b2ca81e2-f881-41d2-8456-7c5493ce835c, Spa manikir, Manikir, 01:30, 2000.0, false
+9569954a-ca6c-41fe-832c-480d94847ae8, Relaks masaža, Masaža, 00:45, 2000.0, false
